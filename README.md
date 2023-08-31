@@ -69,8 +69,6 @@ Grade: 3.7/4
 - Python
 - Pandas, Numpy
 - Tableau Desktop
-    </td>
-    <td>
 - Linux
 - R
 - Performance Testing
