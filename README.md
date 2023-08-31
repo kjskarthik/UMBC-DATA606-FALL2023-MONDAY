@@ -63,7 +63,6 @@ Grade: 3.7/4
 <table>
   <tr>
     <td>
-
 - OpenCL Validation
 - Quality Engineer
 - MongoDB
@@ -75,7 +74,6 @@ Grade: 3.7/4
 - Tableau Desktop
     </td>
     <td>
-
 - Linux
 - R
 - Performance Testing
