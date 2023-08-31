@@ -2,6 +2,7 @@
 
 -------------------     ----------------------------
 <img src="kjskarthik/UMBC-DATA606-FALL2023-MONDAY/IMG_8551.jpg" alt="Headshot" width="200"> 
+![alt text](https://github.com/kjskarthik/UMBC-DATA606-FALL2023-MONDAY/blob/main/IMG_8551.jpg?raw=true)
                                                                            "Name": "Kanaparthi J S Karthik" <br>
                                                                            "Address": "Baltimore, MD, United States" <br>
                                                                            "Email": "FO62975@umbc.edu" <br>
