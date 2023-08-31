@@ -2,7 +2,7 @@
 
 -------------------     ----------------------------
 <img src="kjskarthik/UMBC-DATA606-FALL2023-MONDAY/IMG_8551.jpg" alt="Headshot" width="200"> 
-![Headshot](image.jpg)
+![Headshot](IMG_8551.jpg)
                                                                            ```
 {"Name": "Kanaparthi J S Karthik"
                                                                            "Address": "Baltimore, MD, United States" 
